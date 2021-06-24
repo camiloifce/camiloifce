@@ -19,7 +19,7 @@
 
 <p>Já desenvolvi alguns projetos xxx.</p>
 
-<img align="right" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fredfernelectronics.co.uk%2Fgetting-started%2Fline-follower%2F&psig=AOvVaw29N6LcC5hzLjVI77gXM3PO&ust=1624641564522000&source=images&cd=vfe&ved=0CAoQjRxqGAoTCPjHmc_jsPECFQAAAAAdAAAAABCbAQ" />
+<img align="right" src="https://objetivojuazeiro.com.br/robots/programming/images/credenciamento.gif" />
 
 <b>Pontos de destaque sobre mim:</b>
 
