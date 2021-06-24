@@ -28,7 +28,7 @@
 <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </p>
     
-<p>🎮Video-games são uma paixão (embora hoje em dia não tenho mais o mesmo tempo de antes para jogar)</p>
+<p>🎮Jogos de tabuleiro são uma paixão (embora hoje em dia não tenho mais o mesmo tempo de antes para jogar)</p>
 
 
 <p>📖Amo ler notícias e livros que me edificam (embora hoje em dia não tenho mais o mesmo tempo de antes para ler)</p>
