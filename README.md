@@ -19,7 +19,7 @@
 
 <p>Já desenvolvi alguns projetos xxx.</p>
 
-<img align="right" src="https://objetivojuazeiro.com.br/robots/programming/images/credenciamento.gif" />
+<img align="right" src="http://redfernelectronics.co.uk/wp-content/uploads/2017/11/buggy3.gif" />
 
 <b>Pontos de destaque sobre mim:</b>
 
