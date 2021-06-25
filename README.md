@@ -15,7 +15,7 @@
   </a>
 </p>
 
-<p>Me chamo Francisco Camilo da Silva, sou residente do Juazeiro do Norte, interior do Ceará, Apaixonado pelas áreas de desenvolvimento desde a adolescência, quando eu ajudava há outros colegas em programação! Comecei estudando sozinho com livros doados, da linguagem de programação Fortran, e alguns livros, desenvolvi pequenos projetos em Fortran, aprendi a linguagem de programação C, em 2003 fiz o curso técnico em informática onde descobrir minha paixão por microcontroladores, alguns módulos do meu curso, era desenvolvimento.
+<p>Mestre em Engenharia Mecânica e idealizador do ensino de Matemática com Robótica e fundador do GEROL - Grupo de estudos de Robótica e Olimpiadas Livres no IFCE que nasceu da vontade de ajudar os alunos a alcançarem seus objetivos profissionais por meio de algumas competições cientificas, torneios e olimpíadas. Gosto muito de aprender e de ensinar. Sou professor Francisco Camilo da Silva, moro em Juazeiro do Norte, interior do Ceará, apaixonado pelas áreas de desenvolvimento desde a adolescência, quando eu ajudava há outros colegas em programação! Comecei estudando sozinho com livros doados, da linguagem de programação Fortran, e alguns livros, desenvolvi pequenos projetos em Fortran, aprendi a linguagem de programação C, em 2003 fiz o curso técnico em informática onde descobrir minha paixão por microcontroladores, era desenvolvimento.
 
 <p>Já desenvolvi alguns projetos xxx.</p>
 
@@ -31,10 +31,10 @@
 <p>🎮Jogos de tabuleiro são uma paixão (embora hoje em dia não tenho mais o mesmo tempo de antes para jogar)</p>
 
 
-<p>📖Amo ler notícias e livros que me edificam (embora hoje em dia não tenho mais o mesmo tempo de antes para ler)</p>
+<p>📖Amo ler notícias e livros que me edificam</p>
 
 
-<p>💭Gosto de passar tempo livre apenas parado pensando, sim, PENSANDO! Fico refletindo e mirabolando situações que talvez nem aconteçam (ou aconteçam!)</p>
+<p>💭Gosto de passar tempo livre resolvendo questões de Matemática e Calculo, Pensando na melhor forma de explicar as outras pessoas ressolvê-las! Fico refletindo e se perguntando diversas perguntas, que os outros podem me fazer quando for explicá-las, situações que talvez nem aconteçam (ou aconteçam!)</p>
 </ul>
 
 <b>Minhas habilidades:</b>
