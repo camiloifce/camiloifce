@@ -1,13 +1,13 @@
 <h2>Fim dos tempos  👋</h2>
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/franciscocamilodasilva-591b8392//" target="_blank">
+    <a href="https://www.linkedin.com/in/franciscocamilodasilva-591b8392/" target="_blank">
     <img height="32px" src="https://wesleypribeiro.github.io/img/linkedin.png" />
   </a>
-  <a href="https://https://www.facebook.com/dsccamilo/" target="_blank">
+  <a href="https://www.facebook.com/dsccamilo" target="_blank">
     <img height="32px" src="https://wesleypribeiro.github.io/img/facebook.png" />
   </a>
-  <a href="https://www.instagram.com/ifcecamilo_/" target="_blank">
+  <a href="https://www.instagram.com/ifcecamilo/" target="_blank">
     <img height="32px" src="https://wesleypribeiro.github.io/img/instagram.png" />
   </a>
   <a href="mailto:camilo@ifce.edu.br" target="_blank">
