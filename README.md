@@ -4,13 +4,13 @@
     <a href="https://www.linkedin.com/in/franciscocamilodasilva-591b8392//" target="_blank">
     <img height="32px" src="https://wesleypribeiro.github.io/img/linkedin.png" />
   </a>
-  <a href="https://www.facebook.com/profile.php?id=100004840867554" target="_blank">
+  <a href="https://https://www.facebook.com/dsccamilo/" target="_blank">
     <img height="32px" src="https://wesleypribeiro.github.io/img/facebook.png" />
   </a>
-  <a href="https://www.instagram.com/lucas.macedoo_/" target="_blank">
+  <a href="https://www.instagram.com/ifcecamilo_/" target="_blank">
     <img height="32px" src="https://wesleypribeiro.github.io/img/instagram.png" />
   </a>
-  <a href="mailto:Pedrmorae@gmail.com" target="_blank">
+  <a href="mailto:camilo@ifce.edu.br" target="_blank">
     <img height="32px" src="https://wesleypribeiro.github.io/img/email.png" />
   </a>
 </p>
