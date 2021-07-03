@@ -1,4 +1,4 @@
-<h2>Fim dos tempos  👋</h2>
+<h2>Motivação não dura sempre. Por isso recomenda-se diariamente.  👋</h2>
 
 <p align="left">
     <a href="https://www.linkedin.com/in/franciscocamilodasilva-591b8392/" target="_blank">
