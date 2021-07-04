@@ -1,4 +1,4 @@
-<h2>Motivação não dura sempre. Por isso recomenda-se diariamente.  👋</h2>
+<h2>Motivação não dura para sempre, por isso recomendo diariamente.  👋</h2>
 
 <p align="left">
     <a href="https://www.linkedin.com/in/franciscocamilodasilva-591b8392/" target="_blank">
@@ -34,7 +34,7 @@
 <p>📖Amo ler notícias e livros que me edificam</p>
 
 
-<p>💭Gosto de passar tempo livre resolvendo questões de Matemática e Calculo, Pensando na melhor forma de explicar as outras pessoas ressolvê-las! Fico refletindo e se perguntando diversas perguntas, que os outros podem me fazer quando for explicá-las, situações que talvez nem aconteçam (ou aconteçam!)</p>
+<p>💭Gosto de passar tempo livre resolvendo questões de Matemática e Cálculo, Pensando na melhor forma de explicar as outras pessoas ressolvê-las! Fico refletindo e se perguntando diversas perguntas, que os outros podem me fazer quando for explicá-las, situações que talvez nem aconteçam (ou aconteçam!)</p>
 </ul>
 
 <b>Minhas habilidades:</b>
