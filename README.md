@@ -39,8 +39,8 @@
 
 <b>Minhas habilidades:</b>
 <p align="left">
-<img height="32px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AFortran_logo.svg&psig=AOvVaw2t0Df2uijIHYTRp_o3zv08&ust=1624640812763000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCLicvObgsPECFQAAAAAdAAAAABAI" alt="Fortran" />
-<img height="32px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F813110907714010025%2F&psig=AOvVaw3GS6D-sGjg9NQWFfmb_M4t&ust=1624640974222000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCJinvrThsPECFQAAAAAdAAAAABAD" alt="C" />
+<img height="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Fortran_logo.svg/1200px-Fortran_logo.svg.png" alt="Fortran" />
+<img height="32px" src="https://peritoemphp.com/wp-content/uploads/2019/02/letter_c_PNG22.png" alt="C" />
 <img height="32px" src="https://user-images.githubusercontent.com/60102340/111059115-bf43e200-8471-11eb-8ec7-f65c11f035dc.png" alt="HTML5" />
 <img height="32px" src="https://user-images.githubusercontent.com/60102340/111059142-e26e9180-8471-11eb-9801-d6cbd405001b.png" alt="CSS3" />
 <img height="32px" src="https://user-images.githubusercontent.com/60102340/111058928-940cc300-8470-11eb-88fa-9d5b0b6b506f.png" alt="React" />
